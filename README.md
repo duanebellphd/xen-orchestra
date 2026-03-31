@@ -1,2 +1,5 @@
-# xen-orchestra
-Build Xen Orchestra from source
+## Build Xen Orchestra from Source (Ubuntu)
+
+## 1. Install system dependencies
+
+TBA
